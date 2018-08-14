@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">露游</string>
+    <string name="complete">完成</string>
+    <string name="title">标题</string>
+    <string name="main_text_hint">记录你的行程</string>
+    <string name="input_main_text">请记录你的感受</string>
+</resources>
